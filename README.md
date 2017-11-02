@@ -1,3 +1,3 @@
 # README
 
-[Upskill](http://upskillcourse.com) Software-as-a-Service Ruby on Rails App
+[Matchmaking](http://poturovic.com) Software-as-a-Service Ruby on Rails App
